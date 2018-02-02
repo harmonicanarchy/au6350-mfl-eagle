@@ -1,1 +1,3 @@
-# au6350-mfl-eagle
+# Eagle footprint for Alcor AU6350-MFL
+
+Please note: This footprint has not been tested by me, at least not yet. If you use it, you may do so at your own risk.
